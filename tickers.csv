@@ -1,0 +1,376 @@
+;Unnamed: 0;Ticker;Empresa;Setor;Subsetor;Tipo;Classificação;Name
+0;0;AALR3.SA;ALLIAR;Saúde;Análises e Diagnósticos;Ordinaria;Small Cap;Alliança Saúde e Participações S.A.
+1;1;ABCB4.SA;ABC BRASIL;Financeiro;Intermediários Financeiros;Preferencial;Small Cap;Banco ABC Brasil S.A.
+2;2;ABEV3.SA;AMBEV S/A;Consumo não Cíclico;Bebidas;Ordinaria;Mega Cap;Ambev S.A.
+3;3;AFLT3.SA;AFLUENTE T;Utilidade Pública;Utilidade Pública;Ordinaria;Micro Cap;Afluente Transmissão de Energia Elétrica S.A.
+4;4;AGRO3.SA;BRASILAGRO;Consumo não Cíclico;Agropecuária;Ordinaria;Small Cap;BrasilAgro - Companhia Brasileira de Propriedades Agrícolas
+5;5;AHEB3.SA;SPTURIS;Consumo Cíclico;Viagens e Lazer;Ordinaria;Nano Cap;São Paulo Turismo S.A.
+6;6;ALPA3.SA;ALPARGATAS;Consumo Cíclico;Tecidos, Vestuário e Calçados;Ordinaria;Mid Cap;Alpargatas S.A.
+7;7;ALPA4.SA;ALPARGATAS;Consumo Cíclico;Tecidos, Vestuário e Calçados;Preferencial;Mid Cap;Alpargatas S.A.
+8;8;ALSO3.SA;ALIANSCSONAE;Financeiro;Exploração de Imóveis;Ordinaria;Mid Cap;N/A
+9;9;ALUP3.SA;ALUPAR;Utilidade Pública;Energia Elétrica;Ordinaria;Mid Cap;Alupar Investimento S.A.
+10;10;ALUP4.SA;ALUPAR;Utilidade Pública;Energia Elétrica;Preferencial;Mid Cap;Alupar Investimento S.A.
+11;11;ALUP11.SA;ALUPAR;Utilidade Pública;Energia Elétrica;BDR;Mid Cap;Alupar Investimento S.A.
+12;12;AMAR3.SA;LOJAS MARISA;Consumo Cíclico;Comércio;Ordinaria;Small Cap;Marisa Lojas S.A.
+13;13;ANIM3.SA;ANIMA;Consumo Cíclico;Diversos;Ordinaria;Small Cap;Ânima Holding S.A.
+14;14;APER3.SA;ALPER S.A.;Financeiro;Previdência e Seguros;Ordinaria;Micro Cap;Alper Consultoria e Corretora de Seguros S.A.
+15;15;ARZZ3.SA;AREZZO CO;Consumo Cíclico;Comércio;Ordinaria;Mid Cap;Arezzo Indústria e Comércio S.A.
+16;16;ATOM3.SA;ATOMPAR;Outros;Outros;Ordinaria;Micro Cap;Atom Empreendimentos e Participações S.A.
+17;17;AZEV3.SA;AZEVEDO;Bens Industriais;Construção e Engenharia;Ordinaria;Nano Cap;Azevedo & Travassos S.A.
+18;18;AZEV4.SA;AZEVEDO;Bens Industriais;Construção e Engenharia;Preferencial;Nano Cap;Azevedo & Travassos S.A.
+19;19;AZUL4.SA;AZUL;Bens Industriais;Transporte;Preferencial;Mid Cap;Azul S.A.
+20;20;B3SA3.SA;B3;Financeiro;Serviços Financeiros Diversos;Ordinaria;Big Cap;B3 S.A. - Brasil, Bolsa, Balcão
+21;21;BAHI3.SA;BAHEMA;Consumo Cíclico;Diversos;Ordinaria;Nano Cap;Bahema Educação S.A.
+22;22;BALM3.SA;BAUMER;Saúde;Equipamentos;Ordinaria;Nano Cap;Baumer S.A.
+23;23;BALM4.SA;BAUMER;Saúde;Equipamentos;Preferencial;Nano Cap;Baumer S.A.
+24;24;BAUH3.SA;EXCELSIOR;Consumo não Cíclico;Alimentos Processados;Ordinaria;Micro Cap;Excelsior Alimentos SA
+25;25;BAUH4.SA;EXCELSIOR;Consumo não Cíclico;Alimentos Processados;Preferencial;Micro Cap;Excelsior Alimentos S.A.
+26;26;BAZA3.SA;AMAZONIA;Financeiro;Intermediários Financeiros;Ordinaria;Small Cap;Banco da Amazônia S.A.
+27;27;BBAS3.SA;BRASIL;Financeiro;Intermediários Financeiros;Ordinaria;Big Cap;Banco do Brasil S.A.
+28;28;BBDC3.SA;BRADESCO;Financeiro;Intermediários Financeiros;Ordinaria;Mega Cap;Banco Bradesco S.A.
+29;29;BBDC4.SA;BRADESCO;Financeiro;Intermediários Financeiros;Preferencial;Mega Cap;Banco Bradesco S.A.
+30;30;BBRK3.SA;BR BROKERS;Financeiro;Exploração de Imóveis;Ordinaria;Nano Cap;N/A
+31;31;BBSE3.SA;BBSEGURIDADE;Financeiro;Previdência e Seguros;Ordinaria;Big Cap;BB Seguridade Participações S.A.
+32;32;BDLL3.SA;BARDELLA;Bens Industriais;Máquinas e Equipamentos;Ordinaria;Nano Cap;Bardella S.A. Indústrias Mecânicas
+33;33;BDLL4.SA;BARDELLA;Bens Industriais;Máquinas e Equipamentos;Preferencial;Nano Cap;Bardella S.A. Indústrias Mecânicas
+34;34;BEEF3.SA;MINERVA;Consumo não Cíclico;Alimentos Processados;Ordinaria;Mid Cap;Minerva S.A.
+35;35;BEES3.SA;BANESTES;Financeiro;Intermediários Financeiros;Ordinaria;Small Cap;Banestes S.A - Banco do Estado do Espírito Santo
+36;36;BEES4.SA;BANESTES;Financeiro;Intermediários Financeiros;Preferencial;Small Cap;Banestes S.A - Banco do Estado do Espírito Santo
+37;37;BGIP3.SA;BANESE;Financeiro;Intermediários Financeiros;Ordinaria;Micro Cap;Banco do Estado de Sergipe S.A.
+38;38;BGIP4.SA;BANESE;Financeiro;Intermediários Financeiros;Preferencial;Micro Cap;Banco do Estado de Sergipe S.A.
+39;39;BIDI4.SA;BANCO INTER;Financeiro;Intermediários Financeiros;Preferencial;Big Cap;N/A
+40;40;BIOM3.SA;BIOMM;Saúde;Medicamentos e Outros Produtos;Ordinaria;Small Cap;Biomm S.A.
+41;41;BKBR3.SA;BK BRASIL;Consumo Cíclico;Hoteis e Restaurantes;Ordinaria;Small Cap;N/A
+42;42;BMEB3.SA;MERC BRASIL;Financeiro;Intermediários Financeiros;Ordinaria;Micro Cap;Banco Mercantil do Brasil S.A.
+43;43;BMEB4.SA;MERC BRASIL;Financeiro;Intermediários Financeiros;Preferencial;Micro Cap;Banco Mercantil do Brasil S.A.
+44;44;BMIN3.SA;MERC INVEST;Financeiro;Intermediários Financeiros;Ordinaria;Nano Cap;Banco Mercantil de Investimentos S.A.
+45;45;BMIN4.SA;MERC INVEST;Financeiro;Intermediários Financeiros;Preferencial;Nano Cap;Banco Mercantil de Investimentos S.A.
+46;46;BMKS3.SA;BIC MONARK;Consumo Cíclico;Viagens e Lazer;Ordinaria;Nano Cap;Bicicletas Monark S.A.
+47;47;BNBR3.SA;NORD BRASIL;Financeiro;Intermediários Financeiros;Ordinaria;Mid Cap;Banco do Nordeste do Brasil S.A.
+48;48;BOBR4.SA;BOMBRIL;Consumo não Cíclico;Produtos de Uso Pessoal e de Limpeza;Preferencial;Micro Cap;Bombril S.A.
+49;49;BPAC3.SA;BTGP BANCO;Financeiro;Intermediários Financeiros;Ordinaria;Big Cap;Banco BTG Pactual S.A.
+50;50;BPAC11.SA;BTGP BANCO;Financeiro;Intermediários Financeiros;BDR;Big Cap;Banco BTG Pactual S.A.
+51;51;BPAN4.SA;BANCO PAN;Financeiro;Intermediários Financeiros;Preferencial;Mid Cap;Banco Pan S.A.
+52;52;BPHA3.SA;BR PHARMA;Saúde;Comércio e Distribuição;Ordinaria;Nano Cap;Brasil Pharma S.A.
+53;53;BRAP3.SA;BRADESPAR;Materiais Básicos;Mineração;Ordinaria;Mid Cap;Bradespar S.A.
+54;54;BRAP4.SA;BRADESPAR;Materiais Básicos;Mineração;Preferencial;Mid Cap;Bradespar S.A.
+55;55;BRDT3.SA;PETROBRAS BR;Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Ordinaria;Big Cap;N/A
+56;56;BRFS3.SA;BRF SA;Consumo não Cíclico;Alimentos Processados;Ordinaria;Mid Cap;BRF S.A.
+57;57;BRGE3.SA;ALFA CONSORC;Financeiro;Previdência e Seguros;Ordinaria;Micro Cap;Consórcio Alfa de Administração S.A.
+58;58;BRGE12.SA;ALFA CONSORC;Financeiro;Previdência e Seguros;Preferencial;Micro Cap;Consórcio Alfa de Administração S.A.
+59;59;BRGE11.SA;ALFA CONSORC;Financeiro;Previdência e Seguros;BDR;Micro Cap;Consórcio Alfa de Administração S.A.
+60;60;BRIV3.SA;ALFA INVEST;Financeiro;Intermediários Financeiros;Ordinaria;Micro Cap;Banco Alfa de Investimento S.A.
+61;61;BRIV4.SA;ALFA INVEST;Financeiro;Intermediários Financeiros;Preferencial;Micro Cap;Banco Alfa de Investimento S.A.
+62;62;BRKM3.SA;BRASKEM;Materiais Básicos;Químicos;Ordinaria;Big Cap;Braskem S.A.
+63;63;BRML3.SA;BR MALLS PAR;Financeiro;Exploração de Imóveis;Ordinaria;Mid Cap;N/A
+64;64;BRPR3.SA;BR PROPERT;Financeiro;Exploração de Imóveis;Ordinaria;Small Cap;BR Properties S.A.
+65;65;BRSR3.SA;BANRISUL;Financeiro;Intermediários Financeiros;Ordinaria;Mid Cap;Banco do Estado do Rio Grande do Sul S.A.
+66;66;BSEV3.SA;BIOSEV;Consumo não Cíclico;Alimentos Processados;Ordinaria;Mid Cap;N/A
+67;67;BSLI3.SA;BRB BANCO;Financeiro;Intermediários Financeiros;Ordinaria;Mid Cap;BRB - Banco de Brasília S.A.
+68;68;BSLI4.SA;BRB BANCO;Financeiro;Intermediários Financeiros;Preferencial;Mid Cap;BRB - Banco de Brasília S.A.
+69;69;BTOW3.SA;B2W DIGITAL;Consumo Cíclico;Comércio;Ordinaria;Big Cap;N/A
+70;70;BTTL3.SA;BATTISTELLA;Bens Industriais;Comércio;Ordinaria;Nano Cap;N/A
+71;71;CALI3.SA;CONST A LIND;Consumo Cíclico;Construção Civil;Ordinaria;Nano Cap;Construtora Adolpho Lindenberg S.A.
+72;72;CALI4.SA;CONST A LIND;Consumo Cíclico;Construção Civil;Preferencial;Nano Cap;N/A
+73;73;CAML3.SA;CAMIL;Consumo não Cíclico;Alimentos Processados;Ordinaria;Small Cap;Camil Alimentos S.A.
+74;74;CARD3.SA;CSU CARDSYST;Bens Industriais;Serviços Diversos;Ordinaria;Micro Cap;N/A
+75;75;CASN3.SA;CASAN;Utilidade Pública;Água e Saneamento;Ordinaria;Mid Cap;Companhia Catarinense de Águas e Saneamento - CASAN
+76;76;CASN4.SA;CASAN;Utilidade Pública;Água e Saneamento;Preferencial;Mid Cap;Companhia Catarinense de Águas e Saneamento - CASAN
+77;77;CBEE3.SA;AMPLA ENERG;Utilidade Pública;Energia Elétrica;Ordinaria;Small Cap;Ampla Energia e Serviços S.A.
+78;78;CCPR3.SA;CYRE COM-CCP;Financeiro;Exploração de Imóveis;Ordinaria;Small Cap;N/A
+79;79;CCRO3.SA;CCR SA;Bens Industriais;Transporte;Ordinaria;Big Cap;CCR S.A.
+80;80;CEBR3.SA;CEB;Utilidade Pública;Energia Elétrica;Ordinaria;Small Cap;Companhia Energética de Brasília - CEB
+81;81;CEDO3.SA;CEDRO;Consumo Cíclico;Tecidos, Vestuário e Calçados;Ordinaria;Nano Cap;Companhia de Fiação e Tecidos Cedro e Cachoeira S.A.
+82;82;CEDO4.SA;CEDRO;Consumo Cíclico;Tecidos, Vestuário e Calçados;Preferencial;Nano Cap;Companhia de Fiação e Tecidos Cedro e Cachoeira S.A.
+83;83;CEEB3.SA;COELBA;Utilidade Pública;Energia Elétrica;Ordinaria;Mid Cap;Companhia de Eletricidade do Estado da Bahia - COELBA
+84;84;CEED3.SA;CEEE-D;Utilidade Pública;Energia Elétrica;Ordinaria;Micro Cap;Companhia Estadual de Distribuição de Energia Elétrica
+85;85;CEED4.SA;CEEE-D;Utilidade Pública;Energia Elétrica;Preferencial;Micro Cap;Companhia Estadual de Distribuição de Energia Elétrica
+86;86;CEGR3.SA;CEG;Utilidade Pública;Gás;Ordinaria;Mid Cap;Companhia Distribuidora de Gás do Rio de Janeiro - CEG
+87;87;CEPE3.SA;CELPE;Utilidade Pública;Energia Elétrica;Ordinaria;Mid Cap;N/A
+88;88;CESP3.SA;CESP;Utilidade Pública;Energia Elétrica;Ordinaria;Mid Cap;N/A
+89;89;CGAS3.SA;COMGAS;Utilidade Pública;Gás;Ordinaria;Mid Cap;Companhia de Gás de São Paulo - COMGÁS
+90;90;CGRA3.SA;GRAZZIOTIN;Consumo Cíclico;Comércio;Ordinaria;Micro Cap;Grazziotin S.A.
+91;91;CGRA4.SA;GRAZZIOTIN;Consumo Cíclico;Comércio;Preferencial;Micro Cap;Grazziotin S.A.
+92;92;CIEL3.SA;CIELO;Financeiro;Serviços Financeiros Diversos;Ordinaria;Mid Cap;Cielo S.A.
+93;93;CLSC3.SA;CELESC;Utilidade Pública;Energia Elétrica;Ordinaria;Small Cap;Centrais Elétricas de Santa Catarina S.A.
+94;94;CLSC4.SA;CELESC;Utilidade Pública;Energia Elétrica;Preferencial;Small Cap;Centrais Elétricas de Santa Catarina S.A.
+95;95;CMIG3.SA;CEMIG;Utilidade Pública;Energia Elétrica;Ordinaria;Mid Cap;Companhia Energética de Minas Gerais - CEMIG
+96;96;CMIG4.SA;CEMIG;Utilidade Pública;Energia Elétrica;Preferencial;Mid Cap;Companhia Energética de Minas Gerais - CEMIG
+97;97;COCE3.SA;COELCE;Utilidade Pública;Energia Elétrica;Ordinaria;Small Cap;Companhia Energética do Ceará - COELCE
+98;98;COGN3.SA;COGNA ON;Consumo Cíclico;Diversos;Ordinaria;Mid Cap;Cogna Educação S.A.
+99;99;CORR3.SA;COR RIBEIRO;Financeiro;Exploração de Imóveis;Ordinaria;Nano Cap;Correa Ribeiro SA Comercio e Industria
+100;100;CORR4.SA;COR RIBEIRO;Financeiro;Exploração de Imóveis;Preferencial;Nano Cap;Corrêa Ribeiro S.A. Comércio e Indústria
+101;101;CPFE3.SA;CPFL ENERGIA;Utilidade Pública;Energia Elétrica;Ordinaria;Big Cap;CPFL Energia S.A.
+102;102;CPLE3.SA;COPEL;Utilidade Pública;Energia Elétrica;Ordinaria;Big Cap;Companhia Paranaense de Energia - COPEL
+103;103;CRDE3.SA;CR2;Consumo Cíclico;Construção Civil;Ordinaria;Nano Cap;N/A
+104;104;CRFB3.SA;CARREFOUR BR;Consumo não Cíclico;Comércio e Distribuição;Ordinaria;Big Cap;Atacadão S.A.
+105;105;CRIV3.SA;ALFA FINANC;Financeiro;Intermediários Financeiros;Ordinaria;Micro Cap;Financeira Alfa S.A. - Crédito, Financiamento e Investimentos
+106;106;CRIV4.SA;ALFA FINANC;Financeiro;Intermediários Financeiros;Preferencial;Micro Cap;Financeira Alfa S.A. - Crédito, Financiamento e Investimentos
+107;107;CRPG3.SA;CRISTAL;Materiais Básicos;Químicos;Ordinaria;Small Cap;Tronox Pigmentos do Brasil S.A.
+108;108;CSAB3.SA;SEG AL BAHIA;Financeiro;Previdência e Seguros;Ordinaria;Micro Cap;N/A
+109;109;CSAB4.SA;SEG AL BAHIA;Financeiro;Previdência e Seguros;Preferencial;Micro Cap;N/A
+110;110;CSAN3.SA;COSAN;Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Ordinaria;Big Cap;Cosan S.A.
+111;111;CSMG3.SA;COPASA;Utilidade Pública;Água e Saneamento;Ordinaria;Mid Cap;Companhia de Saneamento de Minas Gerais
+112;112;CSNA3.SA;SID NACIONAL;Materiais Básicos;Siderurgia e Metalurgia;Ordinaria;Big Cap;Companhia Siderúrgica Nacional
+113;113;CSRN3.SA;COSERN;Utilidade Pública;Energia Elétrica;Ordinaria;Small Cap;Companhia Energética do Rio Grande do Norte - COSERN
+114;114;CTKA3.SA;KARSTEN;Consumo Cíclico;Tecidos, Vestuário e Calçados;Ordinaria;Nano Cap;Karsten S.A.
+115;115;CTKA4.SA;KARSTEN;Consumo Cíclico;Tecidos, Vestuário e Calçados;Preferencial;Nano Cap;Karsten S.A.
+116;116;CTNM3.SA;COTEMINAS;Consumo Cíclico;Tecidos, Vestuário e Calçados;Ordinaria;Micro Cap;Companhia de Tecidos Norte de Minas
+117;117;CTNM4.SA;COTEMINAS;Consumo Cíclico;Tecidos, Vestuário e Calçados;Preferencial;Micro Cap;Companhia de Tecidos Norte de Minas
+118;118;CTSA3.SA;SANTANENSE;Consumo Cíclico;Tecidos, Vestuário e Calçados;Ordinaria;Nano Cap;Companhia Tecidos Santanense Ltda.
+119;119;CTSA4.SA;SANTANENSE;Consumo Cíclico;Tecidos, Vestuário e Calçados;Preferencial;Nano Cap;Companhia Tecidos Santanense Ltda.
+120;120;CVCB3.SA;CVC BRASIL;Consumo Cíclico;Viagens e Lazer;Ordinaria;Small Cap;CVC Brasil Operadora e Agência de Viagens S.A.
+121;121;CYRE3.SA;CYRELA REALT;Consumo Cíclico;Construção Civil;Ordinaria;Mid Cap;Cyrela Brazil Realty S.A. Empreendimentos e Participações
+122;122;DASA3.SA;DASA;Saúde;Análises e Diagnósticos;Ordinaria;Big Cap;Diagnósticos da América S.A.
+123;123;DIRR3.SA;DIRECIONAL;Consumo Cíclico;Construção Civil;Ordinaria;Small Cap;Direcional Engenharia S.A.
+124;124;DMMO3.SA;DOMMO;Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Ordinaria;Micro Cap;N/A
+125;125;DOHL3.SA;DOHLER;Consumo Cíclico;Tecidos, Vestuário e Calçados;Ordinaria;Small Cap;Döhler S.A.
+126;126;DOHL4.SA;DOHLER;Consumo Cíclico;Tecidos, Vestuário e Calçados;Preferencial;Small Cap;Döhler S.A.
+127;127;DTCY3.SA;DTCOM-DIRECT;Bens Industriais;Serviços Diversos;Ordinaria;Nano Cap;DTCOM - Direct to Company S.A.
+128;128;DTEX3.SA;DURATEX;Materiais Básicos;Madeira e Papel;Ordinaria;Mid Cap;N/A
+129;129;EALT3.SA;ACO ALTONA;Bens Industriais;Máquinas e Equipamentos;Ordinaria;Micro Cap;Electro Aço Altona S.A.
+130;130;EALT4.SA;ACO ALTONA;Bens Industriais;Máquinas e Equipamentos;Preferencial;Micro Cap;Electro Aço Altona S.A.
+131;131;ECOR3.SA;ECORODOVIAS;Bens Industriais;Transporte;Ordinaria;Mid Cap;EcoRodovias Infraestrutura e Logística S.A.
+132;132;ECPR3.SA;ENCORPAR;Consumo Cíclico;Tecidos, Vestuário e Calçados;Ordinaria;Nano Cap;Empresa Nacional de Comércio, Rédito e Participações S.A. - Encorpar
+133;133;ECPR4.SA;ENCORPAR;Consumo Cíclico;Tecidos, Vestuário e Calçados;Preferencial;Nano Cap;Empresa Nacional de Comércio, Rédito e Participações S.A. - Encorpar
+134;134;EEEL3.SA;CEEE-GT;Utilidade Pública;Energia Elétrica;Ordinaria;Mid Cap;N/A
+135;135;EEEL4.SA;CEEE-GT;Utilidade Pública;Energia Elétrica;Preferencial;Mid Cap;N/A
+136;136;EGIE3.SA;ENGIE BRASIL;Utilidade Pública;Energia Elétrica;Ordinaria;Big Cap;Engie Brasil Energia S.A.
+137;137;EKTR3.SA;ELEKTRO;Utilidade Pública;Energia Elétrica;Ordinaria;Mid Cap;Elektro Redes S.A.
+138;138;EKTR4.SA;ELEKTRO;Utilidade Pública;Energia Elétrica;Preferencial;Mid Cap;Elektro Redes S.A.
+139;139;ELET3.SA;ELETROBRAS;Utilidade Pública;Energia Elétrica;Ordinaria;Big Cap;Centrais Elétricas Brasileiras S.A. - Eletrobrás
+140;140;EMAE4.SA;EMAE;Utilidade Pública;Energia Elétrica;Preferencial;Small Cap;Empresa Metropolitana de Águas e Energia S.A.
+141;141;EMBR3.SA;EMBRAER;Bens Industriais;Material de Transporte;Ordinaria;Mid Cap;Embraer S.A.
+142;142;ENAT3.SA;ENAUTA PART;Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Ordinaria;Small Cap;Enauta Participações S.A.
+143;143;ENBR3.SA;ENERGIAS BR;Utilidade Pública;Energia Elétrica;Ordinaria;Mid Cap;N/A
+144;144;ENEV3.SA;ENEVA;Utilidade Pública;Energia Elétrica;Ordinaria;Mid Cap;Eneva S.A.
+145;145;ENGI3.SA;ENERGISA;Utilidade Pública;Energia Elétrica;Ordinaria;Mid Cap;Energisa S.A.
+146;146;ENGI4.SA;ENERGISA;Utilidade Pública;Energia Elétrica;Preferencial;Mid Cap;Energisa S.A.
+147;147;ENGI11.SA;ENERGISA;Utilidade Pública;Energia Elétrica;BDR;Mid Cap;Energisa S.A.
+148;148;ENMT3.SA;ENERGISA MT;Utilidade Pública;Energia Elétrica;Ordinaria;Mid Cap;Energisa Mato Grosso - Distribuidora de Energia S/A
+149;149;ENMT4.SA;ENERGISA MT;Utilidade Pública;Energia Elétrica;Preferencial;Mid Cap;Energisa Mato Grosso - Distribuidora de Energia S/A
+150;150;EQPA3.SA;EQTL PARA;Utilidade Pública;Energia Elétrica;Ordinaria;Mid Cap;Equatorial Pará Distribuidora de Energia S.A.
+151;151;EQTL3.SA;EQUATORIAL;Utilidade Pública;Energia Elétrica;Ordinaria;Big Cap;Equatorial Energia S.A.
+152;152;ESTR4.SA;ESTRELA;Consumo Cíclico;Viagens e Lazer;Preferencial;Nano Cap;Manufatura de Brinquedos Estrela S.A.
+153;153;ETER3.SA;ETERNIT;Bens Industriais;Construção e Engenharia;Ordinaria;Micro Cap;Eternit S.A.
+154;154;EUCA3.SA;EUCATEX;Materiais Básicos;Madeira e Papel;Ordinaria;Small Cap;Eucatex S.A. Indústria e Comércio
+155;155;EUCA4.SA;EUCATEX;Materiais Básicos;Madeira e Papel;Preferencial;Small Cap;Eucatex S.A. Indústria e Comércio
+156;156;EVEN3.SA;EVEN;Consumo Cíclico;Construção Civil;Ordinaria;Small Cap;Even Construtora e Incorporadora S.A.
+157;157;EZTC3.SA;EZTEC;Consumo Cíclico;Construção Civil;Ordinaria;Mid Cap;EZTEC Empreendimentos e Participações S.A.
+158;158;FESA3.SA;FERBASA;Materiais Básicos;Siderurgia e Metalurgia;Ordinaria;Small Cap;Cia de Ferro Ligas da Bahia S.A. - FERBASA
+159;159;FESA4.SA;FERBASA;Materiais Básicos;Siderurgia e Metalurgia;Preferencial;Small Cap;Cia de Ferro Ligas da Bahia S.A. - FERBASA
+160;160;FHER3.SA;FER HERINGER;Materiais Básicos;Químicos;Ordinaria;Micro Cap;Fertilizantes Heringer S.A.
+161;161;FIGE3.SA;INVEST BEMGE;Outros;Outros;Ordinaria;Nano Cap;Investimentos Bemge S.A.
+162;162;FIGE4.SA;INVEST BEMGE;Outros;Outros;Preferencial;Nano Cap;Investimentos Bemge SA
+163;163;FLRY3.SA;FLEURY;Saúde;Análises e Diagnósticos;Ordinaria;Mid Cap;Fleury S.A.
+164;164;FRAS3.SA;FRAS-LE;Bens Industriais;Material de Transporte;Ordinaria;Small Cap;Fras-le S.A.
+165;165;FRIO3.SA;METALFRIO;Bens Industriais;Máquinas e Equipamentos;Ordinaria;Micro Cap;Metalfrio Solutions S.A.
+166;166;FRTA3.SA;POMIFRUTAS;Consumo não Cíclico;Agropecuária;Ordinaria;Nano Cap;Pomifrutas S/A
+167;167;GEPA3.SA;GER PARANAP;Utilidade Pública;Energia Elétrica;Ordinaria;Small Cap;Rio Paranapanema Energia S.A.
+168;168;GEPA4.SA;GER PARANAP;Utilidade Pública;Energia Elétrica;Preferencial;Small Cap;Rio Paranapanema Energia S.A.
+169;169;GFSA3.SA;GAFISA;Consumo Cíclico;Construção Civil;Ordinaria;Small Cap;Gafisa S.A.
+170;170;GGBR3.SA;GERDAU;Materiais Básicos;Siderurgia e Metalurgia;Ordinaria;Big Cap;Gerdau S.A.
+171;171;GGBR4.SA;GERDAU;Materiais Básicos;Siderurgia e Metalurgia;Preferencial;Big Cap;Gerdau S.A.
+172;172;GNDI3.SA;INTERMEDICA;Saúde;Análises e Diagnósticos;Ordinaria;Big Cap;N/A
+173;173;GOAU3.SA;GERDAU MET;Materiais Básicos;Siderurgia e Metalurgia;Ordinaria;Mid Cap;Metalurgica Gerdau S.A.
+174;174;GOAU4.SA;GERDAU MET;Materiais Básicos;Siderurgia e Metalurgia;Preferencial;Mid Cap;Metalurgica Gerdau S.A.
+175;175;GOLL4.SA;GOL;Bens Industriais;Transporte;Preferencial;Mid Cap;Gol Linhas Aéreas Inteligentes S.A.
+176;176;GPAR3.SA;CELGPAR;Utilidade Pública;Energia Elétrica;Ordinaria;Small Cap;Companhia CELG de Participações S/A
+177;177;GPCP3.SA;GPC PART;Materiais Básicos;Químicos;Ordinaria;Micro Cap;N/A
+178;178;GPIV33.SA;GP INVEST;Financeiro;Serviços Financeiros Diversos;Ordinaria;-;GP Investments, Ltd.
+179;179;GRND3.SA;GRENDENE;Consumo Cíclico;Tecidos, Vestuário e Calçados;Ordinaria;Mid Cap;Grendene S.A.
+180;180;GSHP3.SA;GENERALSHOPP;Financeiro;Exploração de Imóveis;Ordinaria;Nano Cap;General Shopping e Outlets do Brasil S.A.
+181;181;GUAR3.SA;GUARARAPES;Consumo Cíclico;Comércio;Ordinaria;Mid Cap;Guararapes Confecções S.A.
+182;182;HAGA3.SA;HAGA S/A;Bens Industriais;Construção e Engenharia;Ordinaria;Nano Cap;HAGA S/A Indústria e Comércio
+183;183;HAGA4.SA;HAGA S/A;Bens Industriais;Construção e Engenharia;Preferencial;Nano Cap;HAGA S/A Indústria e Comércio
+184;184;HAPV3.SA;HAPVIDA;Saúde;Análises e Diagnósticos;Ordinaria;Big Cap;Hapvida Participações e Investimentos S.A.
+185;185;HBOR3.SA;HELBOR;Consumo Cíclico;Construção Civil;Ordinaria;Small Cap;Helbor Empreendimentos S.A.
+186;186;HETA4.SA;HERCULES;Consumo Cíclico;Utilidades Domésticas;Preferencial;Nano Cap;Hercules S.A - Fábrica de Talheres
+187;187;HGTX3.SA;CIA HERING;Consumo Cíclico;Tecidos, Vestuário e Calçados;Ordinaria;Small Cap;N/A
+188;188;HOOT3.SA;HOTEIS OTHON;Consumo Cíclico;Hoteis e Restaurantes;Ordinaria;Nano Cap;Hoteis Othon SA
+189;189;HOOT4.SA;HOTEIS OTHON;Consumo Cíclico;Hoteis e Restaurantes;Preferencial;Nano Cap;Hotéis Othon S.A.
+190;190;HYPE3.SA;HYPERA;Saúde;Comércio e Distribuição;Ordinaria;Mid Cap;Hypera S.A.
+191;191;IGBR3.SA;IGB S/A;Financeiro;Exploração de Imóveis;Ordinaria;Nano Cap;IGB Eletronica S.A.
+192;192;IGTA3.SA;IGUATEMI;Financeiro;Exploração de Imóveis;Ordinaria;Mid Cap;N/A
+193;193;INEP4.SA;INEPAR;Bens Industriais;Máquinas e Equipamentos;Preferencial;Micro Cap;Inepar S.A. Indústria e Construções
+194;194;IRBR3.SA;IRBBRASIL RE;Financeiro;Previdência e Seguros;Ordinaria;Mid Cap;IRB-Brasil Resseguros S.A.
+195;195;ITSA3.SA;ITAUSA;Financeiro;Intermediários Financeiros;Ordinaria;Big Cap;Itaúsa S.A.
+196;196;ITSA4.SA;ITAUSA;Financeiro;Intermediários Financeiros;Preferencial;Big Cap;Itaúsa S.A.
+197;197;ITUB3.SA;ITAUUNIBANCO;Financeiro;Intermediários Financeiros;Ordinaria;Mega Cap;Itaú Unibanco Holding S.A.
+198;198;ITUB4.SA;ITAUUNIBANCO;Financeiro;Intermediários Financeiros;Preferencial;Mega Cap;Itaú Unibanco Holding S.A.
+199;199;JBDU3.SA;J B DUARTE;Outros;Outros;Ordinaria;Nano Cap;N/A
+200;200;JBDU4.SA;J B DUARTE;Outros;Outros;Preferencial;Nano Cap;N/A
+201;201;JBSS3.SA;JBS;Consumo não Cíclico;Alimentos Processados;Ordinaria;Big Cap;JBS S.A.
+202;202;JFEN3.SA;JOAO FORTES;Consumo Cíclico;Construção Civil;Ordinaria;Micro Cap;João Fortes Engenharia S.A.
+203;203;JHSF3.SA;JHSF PART;Consumo Cíclico;Construção Civil;Ordinaria;Small Cap;JHSF Participações S.A.
+204;204;JOPA3.SA;JOSAPAR;Consumo não Cíclico;Alimentos Processados;Ordinaria;Micro Cap;JOSAPAR Joaquim Oliveira S.A. Participações
+205;205;JOPA4.SA;JOSAPAR;Consumo não Cíclico;Alimentos Processados;Preferencial;Micro Cap;JOSAPAR Joaquim Oliveira S.A. Participações
+206;206;JPSA3.SA;JEREISSATI;Financeiro;Exploração de Imóveis;Ordinaria;Small Cap;N/A
+207;207;KEPL3.SA;KEPLER WEBER;Bens Industriais;Máquinas e Equipamentos;Ordinaria;Small Cap;Kepler Weber S.A.
+208;208;KLBN3.SA;KLABIN S/A;Materiais Básicos;Madeira e Papel;Ordinaria;Big Cap;Klabin S.A.
+209;209;KLBN4.SA;KLABIN S/A;Materiais Básicos;Madeira e Papel;Preferencial;Big Cap;Klabin S.A.
+210;210;KLBN11.SA;KLABIN S/A;Materiais Básicos;Madeira e Papel;BDR;Big Cap;Klabin S.A.
+211;211;LAME3.SA;LOJAS AMERIC;Consumo Cíclico;Comércio;Ordinaria;Big Cap;N/A
+212;212;LAME4.SA;LOJAS AMERIC;Consumo Cíclico;Comércio;Preferencial;Big Cap;N/A
+213;213;LCAM3.SA;LOCAMERICA;Consumo Cíclico;Diversos;Ordinaria;Mid Cap;N/A
+214;214;LEVE3.SA;METAL LEVE;Consumo Cíclico;Automóveis e Motocicletas;Ordinaria;Small Cap;MAHLE Metal Leve S.A.
+215;215;LIGT3.SA;LIGHT S/A;Utilidade Pública;Energia Elétrica;Ordinaria;Mid Cap;Light S.A.
+216;216;LINX3.SA;LINX;Tecnologia da Informação;Programas e Serviços;Ordinaria;Mid Cap;N/A
+217;217;LIPR3.SA;ELETROPAR;Utilidade Pública;Energia Elétrica;Ordinaria;Micro Cap;Eletrobrás Participações S.A. - Eletropar
+218;218;LOGN3.SA;LOG-IN;Bens Industriais;Transporte;Ordinaria;Small Cap;Log-In Logística Intermodal S.A.
+219;219;LPSB3.SA;LOPES BRASIL;Financeiro;Exploração de Imóveis;Ordinaria;Micro Cap;LPS Brasil - Consultoria de Imóveis S.A.
+220;220;LREN3.SA;LOJAS RENNER;Consumo Cíclico;Comércio;Ordinaria;Big Cap;Lojas Renner S.A.
+221;221;LUPA3.SA;LUPATECH;Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Ordinaria;Nano Cap;Lupatech S.A.
+222;222;LUXM3.SA;TREVISA;Bens Industriais;Transporte;Ordinaria;Micro Cap;Trevisa Investimentos SA
+223;223;LUXM4.SA;TREVISA;Bens Industriais;Transporte;Preferencial;Micro Cap;Trevisa Investimentos S.A.
+224;224;MAPT3.SA;CEMEPE;Outros;Outros;Ordinaria;Nano Cap;Cemepe Investimentos S.A.
+225;225;MAPT4.SA;CEMEPE;Outros;Outros;Preferencial;Nano Cap;Cemepe Investimentos S.A.
+226;226;MDIA3.SA;M.DIASBRANCO;Consumo não Cíclico;Alimentos Processados;Ordinaria;Mid Cap;M. Dias Branco S.A. Indústria e Comércio de Alimentos
+227;227;MEAL3.SA;IMC S/A;Consumo Cíclico;Hoteis e Restaurantes;Ordinaria;Small Cap;International Meal Company Alimentação S.A.
+228;228;MERC3.SA;MERC FINANC;Financeiro;Intermediários Financeiros;Ordinaria;Micro Cap;Creditaqui Financeira S.A. - Crédito, Financiamento e Investimento
+229;229;MERC4.SA;MERC FINANC;Financeiro;Intermediários Financeiros;Preferencial;Micro Cap;Creditaqui Financeira S.A. - Crédito, Financiamento e Investimento
+230;230;MGEL3.SA;MANGELS INDL;Materiais Básicos;Siderurgia e Metalurgia;Ordinaria;Nano Cap;Mangels Industrial SA
+231;231;MGEL4.SA;MANGELS INDL;Materiais Básicos;Siderurgia e Metalurgia;Preferencial;Nano Cap;Mangels Industrial S.A.
+232;232;MGLU3.SA;MAGAZ LUIZA;Consumo Cíclico;Comércio;Ordinaria;Mega Cap;Magazine Luiza S.A.
+233;233;MILS3.SA;MILLS;Bens Industriais;Construção e Engenharia;Ordinaria;Small Cap;Mills Locação, Serviços e Logística S.A.
+234;234;MMAQ3.SA;MINASMAQUINA;Bens Industriais;Comércio;Ordinaria;Nano Cap;Minasmaquinas SA
+235;235;MMAQ4.SA;MINASMAQUINA;Bens Industriais;Comércio;Preferencial;Nano Cap;Minasmaquinas SA
+236;236;MMXM3.SA;MMX MINER;Materiais Básicos;Mineração;Ordinaria;Nano Cap;N/A
+237;237;MNDL3.SA;MUNDIAL;Consumo Cíclico;Tecidos, Vestuário e Calçados;Ordinaria;Nano Cap;Mundial S.A. - Produtos de Consumo
+238;238;MNPR3.SA;MINUPAR;Consumo não Cíclico;Alimentos Processados;Ordinaria;Nano Cap;Minupar Participações S.A.
+239;239;MOAR3.SA;MONT ARANHA;Financeiro;Holdings Diversificadas;Ordinaria;Small Cap;Monteiro Aranha S.A.
+240;240;MOVI3.SA;MOVIDA;Consumo Cíclico;Diversos;Ordinaria;Mid Cap;Movida Participações S.A.
+241;241;MRFG3.SA;MARFRIG;Consumo não Cíclico;Alimentos Processados;Ordinaria;Mid Cap;Marfrig Global Foods S.A.
+242;242;MRVE3.SA;MRV;Consumo Cíclico;Construção Civil;Ordinaria;Mid Cap;MRV Engenharia e Participações S.A.
+243;243;MSPA3.SA;MELHOR SP;Materiais Básicos;Madeira e Papel;Ordinaria;Micro Cap;Companhia Melhoramentos de São Paulo
+244;244;MSPA4.SA;MELHOR SP;Materiais Básicos;Madeira e Papel;Preferencial;Micro Cap;Companhia Melhoramentos de São Paulo
+245;245;MTIG3.SA;METAL IGUACU;Materiais Básicos;Embalagens;Ordinaria;Nano Cap;Metalgrafica Iguacu SA
+246;246;MTIG4.SA;METAL IGUACU;Materiais Básicos;Embalagens;Preferencial;Nano Cap;N/A
+247;247;MTSA3.SA;METISA;Bens Industriais;Máquinas e Equipamentos;Ordinaria;Micro Cap;METISA Metalúrgica Timboense S.A.
+248;248;MTSA4.SA;METISA;Bens Industriais;Máquinas e Equipamentos;Preferencial;Micro Cap;METISA Metalúrgica Timboense S.A.
+249;249;MULT3.SA;MULTIPLAN;Financeiro;Exploração de Imóveis;Ordinaria;Mid Cap;Multiplan Empreendimentos Imobiliários S.A.
+250;250;MWET3.SA;WETZEL S/A;Bens Industriais;Material de Transporte;Ordinaria;Nano Cap;Wetzel S.A.
+251;251;MWET4.SA;WETZEL S/A;Bens Industriais;Material de Transporte;Preferencial;Nano Cap;Wetzel S.A.
+252;252;MYPK3.SA;IOCHP-MAXION;Consumo Cíclico;Automóveis e Motocicletas;Ordinaria;Small Cap;Iochpe-Maxion S.A.
+253;253;NORD3.SA;NORDON MET;Bens Industriais;Máquinas e Equipamentos;Ordinaria;Nano Cap;Nordon Indústrias Metalúrgicas S/A
+254;254;ODER4.SA;ODERICH;Consumo não Cíclico;Alimentos Processados;Preferencial;Micro Cap;Conservas Oderich S.A.
+255;255;ODPV3.SA;ODONTOPREV;Saúde;Análises e Diagnósticos;Ordinaria;Mid Cap;Odontoprev S.A.
+256;256;OFSA3.SA;OUROFINO S/A;Saúde;Medicamentos e Outros Produtos;Ordinaria;Small Cap;Ouro Fino Saúde Animal Participações S.A.
+257;257;OIBR3.SA;OI;Comunicações;Telecomunicações;Ordinaria;Mid Cap;Oi S.A.
+258;258;OIBR4.SA;OI;Comunicações;Telecomunicações;Preferencial;Mid Cap;Oi S.A.
+259;259;OMGE3.SA;OMEGA GER;Utilidade Pública;Energia Elétrica;Ordinaria;Mid Cap;N/A
+260;260;OSXB3.SA;OSX BRASIL;Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Ordinaria;Nano Cap;OSX Brasil S.A.
+261;261;PARD3.SA;IHPARDINI;Saúde;Análises e Diagnósticos;Ordinaria;Small Cap;N/A
+262;262;PATI3.SA;PANATLANTICA;Materiais Básicos;Siderurgia e Metalurgia;Ordinaria;Micro Cap;Panatlântica S.A.
+263;263;PATI4.SA;PANATLANTICA;Materiais Básicos;Siderurgia e Metalurgia;Preferencial;Micro Cap;Panatlântica S.A.
+264;264;PCAR3.SA;P.ACUCAR-CBD;Consumo não Cíclico;Comércio e Distribuição;Ordinaria;Mid Cap;Companhia Brasileira De Distribuicao
+265;265;PDGR3.SA;PDG REALT;Consumo Cíclico;Construção Civil;Ordinaria;Nano Cap;PDG Realty S.A. Empreendimentos e Participações
+266;266;PEAB3.SA;PAR AL BAHIA;Financeiro;Holdings Diversificadas;Ordinaria;Micro Cap;Companhia de Participações Aliança da Bahia
+267;267;PEAB4.SA;PAR AL BAHIA;Financeiro;Holdings Diversificadas;Preferencial;Micro Cap;Companhia de Participações Aliança da Bahia
+268;268;PETR3.SA;PETROBRAS;Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Ordinaria;Mega Cap;Petróleo Brasileiro S.A. - Petrobras
+269;269;PETR4.SA;PETROBRAS;Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Preferencial;Mega Cap;Petróleo Brasileiro S.A. - Petrobras
+270;270;PFRM3.SA;PROFARMA;Saúde;Comércio e Distribuição;Ordinaria;Micro Cap;Profarma Distribuidora de Produtos Farmacêuticos S.A.
+271;271;PINE4.SA;PINE;Financeiro;Intermediários Financeiros;Preferencial;Nano Cap;Banco Pine S.A.
+272;272;PLAS3.SA;PLASCAR PART;Consumo Cíclico;Automóveis e Motocicletas;Ordinaria;Nano Cap;Plascar Participações Industriais S.A.
+273;273;PMAM3.SA;PARANAPANEMA;Materiais Básicos;Siderurgia e Metalurgia;Ordinaria;Micro Cap;Paranapanema S.A.
+274;274;PNVL3.SA;DIMED;Saúde;Comércio e Distribuição;Ordinaria;Small Cap;Dimed S.A. Distribuidora de Medicamentos
+275;275;PNVL4.SA;DIMED;Saúde;Comércio e Distribuição;Preferencial;Small Cap;N/A
+276;276;POMO3.SA;MARCOPOLO;Bens Industriais;Material de Transporte;Ordinaria;Small Cap;Marcopolo S.A.
+277;277;POMO4.SA;MARCOPOLO;Bens Industriais;Material de Transporte;Preferencial;Small Cap;Marcopolo S.A.
+278;278;POSI3.SA;POSITIVO TEC;Tecnologia da Informação;Computadores e Equipamentos;Ordinaria;Small Cap;Positivo Tecnologia S.A.
+279;279;PPAR3.SA;POLPAR;Outros;Outros;Ordinaria;Nano Cap;Polpar SA
+280;280;PPLA11.SA;PPLA;Financeiro;Serviços Financeiros Diversos;BDR;Nano Cap;PPLA Participations Ltd.
+281;281;PRIO3.SA;PETRORIO;Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Ordinaria;Mid Cap;Prio S.A.
+282;282;PSSA3.SA;PORTO SEGURO;Financeiro;Previdência e Seguros;Ordinaria;Mid Cap;Porto Seguro S.A.
+283;283;PTBL3.SA;PORTOBELLO;Bens Industriais;Construção e Engenharia;Ordinaria;Small Cap;PBG S.A.
+284;284;PTNT3.SA;PETTENATI;Consumo Cíclico;Tecidos, Vestuário e Calçados;Ordinaria;Micro Cap;Pettenati S.A. Industria Têxtil
+285;285;PTNT4.SA;PETTENATI;Consumo Cíclico;Tecidos, Vestuário e Calçados;Preferencial;Micro Cap;Pettenati S.A. Industria Têxtil
+286;286;QUAL3.SA;QUALICORP;Saúde;Análises e Diagnósticos;Ordinaria;Mid Cap;Qualicorp Consultoria e Corretora de Seguros S.A.
+287;287;RADL3.SA;RAIADROGASIL;Saúde;Comércio e Distribuição;Ordinaria;Big Cap;Raia Drogasil S.A.
+288;288;RAIL3.SA;RUMO S.A.;Bens Industriais;Transporte;Ordinaria;Big Cap;Rumo S.A.
+289;289;RANI3.SA;IRANI;Materiais Básicos;Madeira e Papel;Ordinaria;Small Cap;Irani Papel e Embalagem S.A.
+290;290;RAPT3.SA;RANDON PART;Bens Industriais;Material de Transporte;Ordinaria;Small Cap;Randon S.A. Implementos e Participações
+291;291;RAPT4.SA;RANDON PART;Bens Industriais;Material de Transporte;Preferencial;Small Cap;Randon S.A. Implementos e Participações
+292;292;RCSL3.SA;RECRUSUL;Bens Industriais;Material de Transporte;Ordinaria;Micro Cap;Recrusul S/A
+293;293;RCSL4.SA;RECRUSUL;Bens Industriais;Material de Transporte;Preferencial;Micro Cap;Recrusul S/A
+294;294;RDNI3.SA;RNI;Consumo Cíclico;Construção Civil;Ordinaria;Micro Cap;RNI Negócios Imobiliários S.A.
+295;295;REDE3.SA;REDE ENERGIA;Utilidade Pública;Energia Elétrica;Ordinaria;Mid Cap;Rede Energia Participações S.A.
+296;296;RENT3.SA;LOCALIZA;Consumo Cíclico;Diversos;Ordinaria;Big Cap;Localiza Rent a Car S.A.
+297;297;RLOG3.SA;COSAN LOG;Bens Industriais;Transporte;Ordinaria;Mid Cap;N/A
+298;298;RNEW3.SA;RENOVA;Utilidade Pública;Energia Elétrica;Ordinaria;Nano Cap;Renova Energia S.A.
+299;299;RNEW4.SA;RENOVA;Utilidade Pública;Energia Elétrica;Preferencial;Nano Cap;Renova Energia S.A.
+300;300;RNEW11.SA;RENOVA;Utilidade Pública;Energia Elétrica;BDR;Nano Cap;Renova Energia S.A.
+301;301;ROMI3.SA;INDS ROMI;Bens Industriais;Máquinas e Equipamentos;Ordinaria;Small Cap;Romi S.A.
+302;302;RPAD3.SA;ALFA HOLDING;Financeiro;Intermediários Financeiros;Ordinaria;Micro Cap;Alfa Holdings S.A.
+303;303;RPMG3.SA;PET MANGUINH;Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Ordinaria;Micro Cap;Refinaria de Petróleos de Manguinhos S.A.
+304;304;RSID3.SA;ROSSI RESID;Consumo Cíclico;Construção Civil;Ordinaria;Nano Cap;Rossi Residencial S.A.
+305;305;RSUL4.SA;RIOSULENSE;Bens Industriais;Material de Transporte;Preferencial;Nano Cap;Metalúrgica Riosulense S.A.
+306;306;SANB3.SA;SANTANDER BR;Financeiro;Intermediários Financeiros;Ordinaria;Mega Cap;Banco Santander (Brasil) S.A.
+307;307;SANB4.SA;SANTANDER BR;Financeiro;Intermediários Financeiros;Preferencial;Mega Cap;Banco Santander (Brasil) S.A.
+308;308;SANB11.SA;SANTANDER BR;Financeiro;Intermediários Financeiros;BDR;Mega Cap;Banco Santander (Brasil) S.A.
+309;309;SAPR3.SA;SANEPAR;Utilidade Pública;Água e Saneamento;Ordinaria;Mid Cap;Companhia de Saneamento do Paraná - SANEPAR
+310;310;SAPR4.SA;SANEPAR;Utilidade Pública;Água e Saneamento;Preferencial;Mid Cap;Companhia de Saneamento do Paraná - SANEPAR
+311;311;SAPR11.SA;SANEPAR;Utilidade Pública;Água e Saneamento;BDR;Mid Cap;Companhia de Saneamento do Paraná - SANEPAR
+312;312;SBSP3.SA;SABESP;Utilidade Pública;Água e Saneamento;Ordinaria;Big Cap;Companhia de Saneamento Básico do Estado de São Paulo - SABESP
+313;313;SCAR3.SA;SAO CARLOS;Financeiro;Exploração de Imóveis;Ordinaria;Small Cap;São Carlos Empreendimentos e Participações S.A.
+314;314;SEER3.SA;SER EDUCA;Consumo Cíclico;Diversos;Ordinaria;Small Cap;Ser Educacional S.A.
+315;315;SGPS3.SA;SPRINGS;Consumo Cíclico;Tecidos, Vestuário e Calçados;Ordinaria;Micro Cap;Springs Global Participações S.A.
+316;316;SHOW3.SA;TIME FOR FUN;Consumo Cíclico;Viagens e Lazer;Ordinaria;Micro Cap;T4F Entretenimento S.A.
+317;317;SHUL3.SA;SCHULZ;Bens Industriais;Máquinas e Equipamentos;Ordinaria;Small Cap;Schulz S.A.
+318;318;SHUL4.SA;SCHULZ;Bens Industriais;Máquinas e Equipamentos;Preferencial;Small Cap;Schulz S.A.
+319;319;SLCE3.SA;SLC AGRICOLA;Consumo não Cíclico;Agropecuária;Ordinaria;Mid Cap;SLC Agrícola S.A.
+320;320;SLED3.SA;SARAIVA LIVR;Consumo Cíclico;Comércio;Ordinaria;Nano Cap;Saraiva Livreiros S.A. - em Recuperação Judicial
+321;321;SLED4.SA;SARAIVA LIVR;Consumo Cíclico;Comércio;Preferencial;Nano Cap;Saraiva Livreiros S.A. - em Recuperação Judicial
+322;322;SMLS3.SA;SMILES;Consumo Cíclico;Diversos;Ordinaria;Small Cap;N/A
+323;323;SMTO3.SA;SAO MARTINHO;Consumo não Cíclico;Alimentos Processados;Ordinaria;Mid Cap;São Martinho S.A.
+324;324;SNSY3.SA;SANSUY;Materiais Básicos;Materiais Diversos;Ordinaria;Nano Cap;Sansuy S.A.
+325;325;SQIA3.SA;SINQIA;Tecnologia da Informação;Programas e Serviços;Ordinaria;Small Cap;N/A
+326;326;STBP3.SA;SANTOS BRP;Bens Industriais;Transporte;Ordinaria;Mid Cap;Santos Brasil Participações S.A.
+327;327;SULA3.SA;SUL AMERICA;Financeiro;Previdência e Seguros;Ordinaria;Mid Cap;N/A
+328;328;SULA4.SA;SUL AMERICA;Financeiro;Previdência e Seguros;Preferencial;Mid Cap;N/A
+329;329;SULA11.SA;SUL AMERICA;Financeiro;Previdência e Seguros;BDR;Mid Cap;N/A
+330;330;SUZB3.SA;SUZANO S.A.;Materiais Básicos;Madeira e Papel;Ordinaria;Big Cap;Suzano S.A.
+331;331;TAEE3.SA;TAESA;Utilidade Pública;Energia Elétrica;Ordinaria;Mid Cap;Transmissora Aliança de Energia Elétrica S.A.
+332;332;TAEE4.SA;TAESA;Utilidade Pública;Energia Elétrica;Preferencial;Mid Cap;Transmissora Aliança de Energia Elétrica S.A.
+333;333;TAEE11.SA;TAESA;Utilidade Pública;Energia Elétrica;BDR;Mid Cap;Transmissora Aliança de Energia Elétrica S.A.
+334;334;TASA3.SA;TAURUS ARMAS;Bens Industriais;Máquinas e Equipamentos;Ordinaria;Small Cap;Taurus Armas S.A.
+335;335;TASA4.SA;TAURUS ARMAS;Bens Industriais;Máquinas e Equipamentos;Preferencial;Small Cap;Taurus Armas S.A.
+336;336;TCNO3.SA;TECNOSOLO;Bens Industriais;Construção e Engenharia;Ordinaria;Nano Cap;N/A
+337;337;TCNO4.SA;TECNOSOLO;Bens Industriais;Construção e Engenharia;Preferencial;Nano Cap;N/A
+338;338;TCSA3.SA;TECNISA;Consumo Cíclico;Construção Civil;Ordinaria;Micro Cap;Tecnisa S.A.
+339;339;TECN3.SA;TECHNOS;Consumo Cíclico;Tecidos, Vestuário e Calçados;Ordinaria;Nano Cap;Technos S.A.
+340;340;TEKA3.SA;TEKA;Consumo Cíclico;Tecidos, Vestuário e Calçados;Ordinaria;Nano Cap;Teka Tecelagem Kuehnrich S.A.
+341;341;TEKA4.SA;TEKA;Consumo Cíclico;Tecidos, Vestuário e Calçados;Preferencial;Nano Cap;Teka Tecelagem Kuehnrich S.A.
+342;342;TELB3.SA;TELEBRAS;Comunicações;Telecomunicações;Ordinaria;Small Cap;Telecomunicações Brasileiras S.A. - Telebras
+343;343;TELB4.SA;TELEBRAS;Comunicações;Telecomunicações;Preferencial;Small Cap;Telecomunicações Brasileiras S.A. - Telebras
+344;344;TEND3.SA;TENDA;Consumo Cíclico;Construção Civil;Ordinaria;Small Cap;Construtora Tenda S.A.
+345;345;TESA3.SA;TERRA SANTA;Consumo não Cíclico;Agropecuária;Ordinaria;Micro Cap;N/A
+346;346;TGMA3.SA;TEGMA;Bens Industriais;Transporte;Ordinaria;Small Cap;Tegma Gestão Logística S.A.
+347;347;TIMS3.SA;TIM;Comunicações;Telecomunicações;Ordinaria;Big Cap;TIM S.A.
+348;348;TKNO3.SA;TEKNO;Materiais Básicos;Siderurgia e Metalurgia;Ordinaria;Nano Cap;Tekno SA Industria e Comercio
+349;349;TKNO4.SA;TEKNO;Materiais Básicos;Siderurgia e Metalurgia;Preferencial;Nano Cap;Tekno S.A. Indústria e Comércio
+350;350;TOTS3.SA;TOTVS;Tecnologia da Informação;Programas e Serviços;Ordinaria;Mid Cap;TOTVS S.A.
+351;351;TPIS3.SA;TRIUNFO PART;Bens Industriais;Transporte;Ordinaria;Micro Cap;Triunfo Participações e Investimentos S.A.
+352;352;TRIS3.SA;TRISUL;Consumo Cíclico;Construção Civil;Ordinaria;Small Cap;Trisul S.A.
+353;353;TRPL3.SA;TRAN PAULIST;Utilidade Pública;Energia Elétrica;Ordinaria;Mid Cap;CTEEP - Companhia de Transmissão de Energia Elétrica Paulista S.A.
+354;354;TRPL4.SA;TRAN PAULIST;Utilidade Pública;Energia Elétrica;Preferencial;Mid Cap;CTEEP - Companhia de Transmissão de Energia Elétrica Paulista S.A.
+355;355;TUPY3.SA;TUPY;Bens Industriais;Material de Transporte;Ordinaria;Small Cap;Tupy S.A.
+356;356;UCAS3.SA;UNICASA;Consumo Cíclico;Utilidades Domésticas;Ordinaria;Micro Cap;Unicasa Indústria de Móveis S.A.
+357;357;UGPA3.SA;ULTRAPAR;Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Ordinaria;Mid Cap;Ultrapar Participações S.A.
+358;358;UNIP3.SA;UNIPAR;Materiais Básicos;Químicos;Ordinaria;Mid Cap;Unipar Carbocloro S.A.
+359;359;USIM3.SA;USIMINAS;Materiais Básicos;Siderurgia e Metalurgia;Ordinaria;Mid Cap;Usinas Siderúrgicas de Minas Gerais S.A.
+360;360;VALE3.SA;VALE;Materiais Básicos;Mineração;Ordinaria;Mega Cap;Vale S.A.
+361;361;VIVR3.SA;VIVER;Consumo Cíclico;Construção Civil;Ordinaria;Nano Cap;Viver Incorporadora e Construtora S.A.
+362;362;VIVT3.SA;TELEF BRASIL;Comunicações;Telecomunicações;Ordinaria;Big Cap;Telefônica Brasil S.A.
+363;363;VLID3.SA;VALID;Bens Industriais;Serviços Diversos;Ordinaria;Micro Cap;Valid Soluções S.A.
+364;364;VSPT3.SA;FER C ATLANT;Bens Industriais;Transporte;Ordinaria;Micro Cap;Ferrovia Centro-Atlantica SA
+365;365;VULC3.SA;VULCABRAS;Consumo Cíclico;Tecidos, Vestuário e Calçados;Ordinaria;Small Cap;Vulcabras S.A.
+366;366;VVAR3.SA;VIAVAREJO;Consumo Cíclico;Comércio;Ordinaria;Mid Cap;N/A
+367;367;WEGE3.SA;WEG;Bens Industriais;Máquinas e Equipamentos;Ordinaria;Mega Cap;WEG S.A.
+368;368;WHRL3.SA;WHIRLPOOL;Consumo Cíclico;Utilidades Domésticas;Ordinaria;Mid Cap;Whirlpool S.A.
+369;369;WHRL4.SA;WHIRLPOOL;Consumo Cíclico;Utilidades Domésticas;Preferencial;Mid Cap;Whirlpool S.A.
+370;370;WIZS3.SA;WIZ S.A.;Financeiro;Previdência e Seguros;Ordinaria;Small Cap;N/A
+371;371;WLMM3.SA;WLM IND COM;Bens Industriais;Comércio;Ordinaria;Micro Cap;WLM Participações e Comércio de Máquinas e Veículos S.A.
+372;372;WLMM4.SA;WLM IND COM;Bens Industriais;Comércio;Preferencial;Micro Cap;WLM Participações e Comércio de Máquinas e Veículos S.A.
+373;373;WSON33.SA;WILSON SONS;Bens Industriais;Transporte;Ordinaria;-;N/A
+374;374;YDUQ3.SA;YDUQS PART;Consumo Cíclico;Diversos;Ordinaria;Mid Cap;Yduqs Participações S.A.
